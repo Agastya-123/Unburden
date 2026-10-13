@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1011853018371",
+    "firebase_url": "https://anti-bully-ae4e3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "anti-bully-ae4e3",
+    "storage_bucket": "anti-bully-ae4e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011853018371:android:528b32c378da12f0021536",
+        "android_client_info": {
+          "package_name": "com.unburden.antibully"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011853018371-eegfche15fsnhqsu7ltephca113l8k1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unburden.antibully",
+            "certificate_hash": "cd7ebaf8cd91fd178fe0e0c99b33ca8eb8c94e9b"
+          }
+        },
+        {
+          "client_id": "1011853018371-f2jjp9gkd2tj01m2pmv7046ik07ue3a9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unburden.antibully",
+            "certificate_hash": "7ec7edca20ee675e1936271e2490e4cf8df0054c"
+          }
+        },
+        {
+          "client_id": "1011853018371-r42btuq4u74s738h1lc8unkl8d7dest7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiGeP3g6o7nG7xD8NHzQUmW7DQEUQH6cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011853018371-r42btuq4u74s738h1lc8unkl8d7dest7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1011853018371-fdeqursfjk0td4uhm2dtm8hkh5k9075p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.antibully"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

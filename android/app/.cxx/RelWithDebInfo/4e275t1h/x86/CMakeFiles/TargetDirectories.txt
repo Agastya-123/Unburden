@@ -1,0 +1,2 @@
+C:/Users/Lenovo/AndroidStudioProjects/antibully/android/app/.cxx/RelWithDebInfo/4e275t1h/x86/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/AndroidStudioProjects/antibully/android/app/.cxx/RelWithDebInfo/4e275t1h/x86/CMakeFiles/rebuild_cache.dir
